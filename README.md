@@ -1,3 +1,4 @@
+<img width="1552" height="746" alt="Screenshot 2026-09-13 190703" src="https://github.com/user-attachments/assets/fbac2dee-1d8d-49ba-b1c8-2ee2b67f0c9b" />
 # Mini-Project--Excel-Power-BI
 # Rice Price Analysis & Dashboard
 
