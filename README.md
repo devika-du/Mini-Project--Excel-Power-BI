@@ -1,7 +1,10 @@
 # Mini-Project--Excel-Power-BI
 # Rice Price Analysis & Dashboard
 
-![Rice Price Dashboard](C:\Users\dell\Pictures\Screenshots\Screenshot 2026-09-13 190703.png)
+![Rice Price Dashboard](<img width="1552" height="746" alt="Screenshot 2026-09-13 190703" src="https://github.com/user-attachments/assets/c5de5b72-0883-4c2e-a79f-8f9231a28a72" />)
+
+
+
 
 ## Overview
 
